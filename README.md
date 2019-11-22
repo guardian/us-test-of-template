@@ -136,7 +136,7 @@ You'll also need to comment in the _scrolly.scss code in main.scss, as well as s
                 </div>
             </div>
             <div class="scroll-text__inner">
-                <div class="scroll-text__div"> 
+                <div class="scroll-text__div">
                     <p>2</p>
                 </div>
             </div>
